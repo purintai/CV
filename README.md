@@ -1,7 +1,7 @@
 職務経歴書
 ===
 
-最終更新: 2018-08-14
+最終更新: 2018-09-11
 
 ## 基本情報と連絡先
 
@@ -11,6 +11,7 @@
 |メールアドレス|p@spacepro.be|
 |GitHub|[@purintai](https://github.com/purintai)|
 |Twitter|[@spacepro_be](https://twitter.com/spacepro_be)|
+|Speaker Deck|[@purintai](https://speakerdeck.com/purintai)|
 |Qiita|[@spaceprobe](https://qiita.com/spaceprobe)|
 
 ## スキル
@@ -113,6 +114,8 @@
     - Ruby 製 ジョブフレームワークの Sidekiq 解説記事
 - [SmartHR が定期メンテナンスを始めた理由とやめる理由](http://tech.smarthr.jp/entry/2018/04/06/100000)
     - 自身が主導したデータベース移行プロジェクトの概略説明記事
+- [つらくないマルチテナンシーを求めて: 全て見せます！ SmartHR データベース移行プロジェクトの裏側](https://speakerdeck.com/purintai/builderscon-2018)
+    - [builderscon tokyo 2018](https://builderscon.io/tokyo/2018) 登壇資料
 
 ## 興味関心
 
